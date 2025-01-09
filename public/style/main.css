@@ -1,0 +1,9 @@
+.main__center {
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+}
+
+.div {
+    margin: 10px;
+}

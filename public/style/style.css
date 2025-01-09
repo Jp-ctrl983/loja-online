@@ -1,0 +1,20 @@
+@import url("../style/menu.css");
+@import url("../style/main.css");
+
+
+:root {
+    --primary-color: #1b8bfc; /* Azul vibrante */
+
+    --secondary-color: #ff4500; /* Vermelho chamativo */
+  
+    --accent-color: #32cd32; /* Verde limão discreto */
+  
+    --background-color: #f4f4f4; /* Cinza claro para fundo */
+
+    --text-color: #333333; /* Cinza escuro para contraste */
+}
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
